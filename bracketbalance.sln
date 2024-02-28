@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bracketbalance", "bracketbalance\bracketbalance.csproj", "{FE891356-6F78-4446-ABDE-5F228A5D30FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testBalance", "testBalance\testBalance.csproj", "{F5DBE6A9-22E4-4B85-A508-0F668833D2D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE891356-6F78-4446-ABDE-5F228A5D30FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE891356-6F78-4446-ABDE-5F228A5D30FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE891356-6F78-4446-ABDE-5F228A5D30FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE891356-6F78-4446-ABDE-5F228A5D30FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DBE6A9-22E4-4B85-A508-0F668833D2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DBE6A9-22E4-4B85-A508-0F668833D2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DBE6A9-22E4-4B85-A508-0F668833D2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DBE6A9-22E4-4B85-A508-0F668833D2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99BBE0F-1545-4D71-9A0C-2928B8564448}
+	EndGlobalSection
+EndGlobal

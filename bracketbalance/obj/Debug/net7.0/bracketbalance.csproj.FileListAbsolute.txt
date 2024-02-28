@@ -1,0 +1,14 @@
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\bin\Debug\net7.0\bracketbalance.exe
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\bin\Debug\net7.0\bracketbalance.deps.json
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\bin\Debug\net7.0\bracketbalance.runtimeconfig.json
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\bin\Debug\net7.0\bracketbalance.dll
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\bin\Debug\net7.0\bracketbalance.pdb
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.AssemblyInfoInputs.cache
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.AssemblyInfo.cs
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.dll
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\refint\bracketbalance.dll
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.pdb
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\bracketbalance.genruntimeconfig.cache
+C:\Users\Ignacio\source\repos\bracketbalance\bracketbalance\obj\Debug\net7.0\ref\bracketbalance.dll
